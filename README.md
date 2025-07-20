@@ -1,1 +1,1 @@
-# Dashboard-with Next.js 
+# Dashboard-with Next.js and Firebase 
